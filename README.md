@@ -29,6 +29,12 @@ I work with technologies like **React, Next.js, Node.js, Express, PostgreSQL, Mo
 
 I'm currently expanding into **AI engineering and automation**, learning how LLMs can be connected to applications, tools, APIs, databases, and automated workflows.
 
+**I'm a creator. I don't just build — I learn how things work, understand the systems behind them, and make them work better.**
+
+**Understand → Build → Improve → Automate**
+
+I'm driven by curiosity and a desire to create software that is not only functional, but **thoughtful, efficient, and useful.**
+
 </td>
 </tr>
 </table>
@@ -169,13 +175,3 @@ LLMs
  ├── AI Agents
  │
  └── Automation Workflows
-
-
-### 👨🏽‍💻 A Little About Me
-
-> **I'm a creator. I don't just build — I learn how things work, understand the systems behind them, and make them work better.**
-
-**Build → Understand → Improve → Automate**
-
-I'm driven by curiosity and a desire to create software that is not only functional, but **thoughtful, efficient, and useful.**
-
