@@ -1,98 +1,178 @@
-👋 Hi, I'm Ibhawa Success Ose (Tech Success)
+# 👋 Hi, I'm Ibhawa Success Ose
 
-💻 Frontend Developer | Full-Stack Developer | AI Automation
+### 💻 Frontend Developer | Full-Stack Developer | AI Automation
 
-I'm a software developer focused primarily on building modern, responsive, and user-friendly web applications with React and Next.js. I also work across the backend using the MERN stack, building APIs, authentication systems, and data-driven applications.
+I build modern, responsive web applications with **React and Next.js**, while working across the backend with **Node.js, Express, PostgreSQL, and MongoDB**.
 
-I'm currently expanding into AI engineering and automation, learning how to integrate LLMs, tool/function calling, structured outputs, RAG, and intelligent workflows into real-world software.
+I'm also gradually diving into **AI engineering and automation**, exploring how LLMs, tools, RAG, agents, and intelligent workflows can be integrated into practical software.
 
-🧠 What I Do
+---
 
-💻 Frontend Development
+## 🧠 What I Do
 
-Build modern, responsive web applications with React and Next.js
-Create reusable and maintainable UI components
-Implement responsive interfaces from Figma designs
-Build interactive experiences with Tailwind CSS, shadcn/ui, and Framer Motion
+<table>
+<tr>
+<td width="50%">
 
-⚙️ Full-Stack Development
+### 💻 Frontend Development
 
-Build REST APIs with Node.js and Express.js
-Work with PostgreSQL and MongoDB
-Implement authentication and backend services
-Connect frontend applications to backend APIs
-Design and work with data-driven applications
+- React & Next.js applications
+- Responsive UI development
+- Figma → production interfaces
+- Reusable component systems
+- Tailwind CSS & shadcn/ui
+- Interactive animations
 
-🤖 AI & Automation
+</td>
 
-Integrate LLMs into applications
-Build AI-powered chatbots and intelligent applications
-Work with structured outputs and tool/function calling
-Explore RAG and AI agents
-Build practical AI automation workflows
-Learn how AI can interact with existing software and services
+<td width="50%">
 
-🚀 Deployment & Development
+### ⚙️ Full-Stack Development
 
-Deploy applications using platforms such as Vercel
-Work with Git and GitHub for version control
-Build, test, debug, and continuously improve production-oriented applications
-🛠️ Tech Stack
-Frontend
+- Node.js & Express.js
+- REST APIs
+- MongoDB & PostgreSQL
+- Authentication systems
+- Backend services
+- Data-driven applications
 
-JavaScript TypeScript React Next.js Tailwind CSS Vite shadcn/ui Framer Motion
+</td>
+</tr>
 
-Backend
+<tr>
+<td width="50%">
 
-Node.js Express.js MongoDB PostgreSQL REST APIs
+### 🤖 AI & Automation
 
-AI & Automation
+- LLM integration
+- AI-powered applications
+- RAG
+- Tool & function calling
+- Structured outputs
+- AI agents & automation
 
-LLMs Groq RAG Tool Calling Function Calling Structured Outputs AI Agents
+</td>
 
-Tools & Platforms
+<td width="50%">
 
-Git GitHub Vercel Cloudinary
+### 🚀 Development & Deployment
 
-🚀 Featured Project
-🤖 AI Chatbot
+- Git & GitHub
+- Vercel
+- Cloudinary
+- API integration
+- Debugging & testing
+- Production-oriented development
 
-An AI-powered chatbot built to explore how modern LLM applications work beyond basic prompting.
+</td>
+</tr>
+</table>
 
-Technologies & concepts explored:
+---
 
-React
-Node.js
-Express.js
-LLM integration
-Groq
-Streaming responses
-Structured outputs
-RAG
-Tool & function calling
-AI agents
-AI automation
+## 🛠️ Tech Stack
 
-The project is part of my journey toward understanding how to build real AI-powered software and automated workflows, rather than simply consuming AI APIs.
+### 🎨 Frontend
 
-🌱 Currently Learning & Building
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-🤖 AI Engineering & LLM Applications
-⚙️ AI Automation & Intelligent Workflows
-💻 Full-Stack Software Engineering
-🧠 AI Agents, RAG & Tool Calling
-🚀 Building practical software that solves real problems
-📖 Strengthening my software engineering fundamentals
+### ⚙️ Backend & Databases
 
-I'm particularly interested in the intersection between software engineering and AI—building applications where AI can reason, interact with tools, work with data, and automate meaningful tasks.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-📫 Connect With Me
+### 🤖 AI & Automation
 
-🌐 Portfolio: [Coming Soon]
-💻 GitHub: @cutekeyz
-𝕏 X: @success00867853
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge)
 
-⭐ A little about me
-I am not just a builder, I am a CREATOR!!!
+---
 
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td>
+
+### 🤖 AI Chatbot
+
+An AI-powered chatbot I'm building to understand how modern LLM applications work beyond basic prompting.
+
+**Exploring:**
+
+`LLMs` · `Groq` · `Streaming` · `Structured Outputs` · `RAG` · `Tool Calling` · `Function Calling` · `AI Agents` · `Automation`
+
+</td>
+</tr>
+</table>
+
+> The goal isn't just to use AI APIs, but to understand how AI-powered systems are designed, connected to tools, and integrated into real applications.
+
+---
+
+## 🌱 Currently Learning
+
+<table>
+<tr>
+<td>
+
+🤖 **AI Engineering**
+
+Learning how LLM-powered applications are designed and integrated into software.
+
+</td>
+<td>
+
+⚙️ **AI Automation**
+
+Building workflows where AI can interact with tools, data, APIs, and applications.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🧠 **AI Agents & RAG**
+
+Exploring retrieval, tool use, context, and agent-based architectures.
+
+</td>
+<td>
+
+💻 **Software Engineering**
+
+Continuously strengthening my frontend, backend, and system design fundamentals.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40cutekeyz-181717?style=for-the-badge&logo=github)](https://github.com/cutekeyz)
+
+[![X](https://img.shields.io/badge/X-%40success00867853-000000?style=for-the-badge&logo=x)](https://x.com/success00867853)
+
+🌐 **Portfolio:** Coming soon
+
+---
+
+### ⭐ A little about me
+
+> **Every project I build is another step toward becoming the software engineer I want to be.**
+
+I don't just want to make things work. I want to understand **why they work, how they're designed, and how they can be made better.**
 
