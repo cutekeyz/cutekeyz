@@ -11,6 +11,7 @@ Building modern web applications and exploring the intersection of
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40cutekeyz-181717?style=for-the-badge&logo=github)](https://github.com/cutekeyz)
 [![X](https://img.shields.io/badge/X-%40success00867853-000000?style=for-the-badge&logo=x)](https://x.com/success00867853)
+### 🌐 Portfolio · Coming Soon
 
 </div>
 
@@ -168,4 +169,13 @@ LLMs
  ├── AI Agents
  │
  └── Automation Workflows
+
+
+### 👨🏽‍💻 A Little About Me
+
+> **I'm a creator. I don't just build — I learn how things work, understand the systems behind them, and make them work better.**
+
+**Build → Understand → Improve → Automate**
+
+I'm driven by curiosity and a desire to create software that is not only functional, but **thoughtful, efficient, and useful.**
 
